@@ -1,6 +1,6 @@
 # A simple way to implement State machine
 ## How to run the code
-- First: Run server.py or server_without_graphviz  
+- First: Run server.py
 It will generate a PNG file, which is the image of the State machine structure.  
 Every time run the server.py, it will generate a new image and it will cover the previous image.
 - Second: Run the client.py  
@@ -32,6 +32,10 @@ Server:D
 Client:2  
 Server:J  
 ......
+Client:2  
+Server:Z
+Server:A 
+
 - The result of image named State machine structure.png in the current folder.
 
 ## Notes:
