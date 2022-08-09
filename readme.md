@@ -1,6 +1,6 @@
 # A simple way to implement State machine
 ## How to run the code
-- First: Run server.py or server_without_graphviz
+- First: Run server.py or server_without_graphviz  
 It will generate a PNG file, which is the image of the State machine structure.  
 Every time run the server.py, it will generate a new image and it will cover the previous image.
 - Second: Run the client.py  
@@ -37,3 +37,4 @@ Server:J
 ## Notes:
 - If you don't want use graphviz, just run the server_without_graphviz at first.
 - Change your own host in server and client
+- If you want to run server.py, it needs to install graphviz on your computer and install the python package
