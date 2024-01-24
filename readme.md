@@ -40,5 +40,5 @@ Server:A
 
 ## Notes:
 - If you don't want use graphviz, just run the server_without_graphviz at first.
-- Change your own host in server and client
-- If you want to run server.py, it needs to install graphviz on your computer and install the python package
+- Change your own host in server and client.
+- If you want to run server.py, it needs to install graphviz on your computer and install the python package.
